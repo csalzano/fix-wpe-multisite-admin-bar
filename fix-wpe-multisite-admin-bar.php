@@ -1,9 +1,9 @@
 <?php
 /*
  * Plugin Name: Fix WP Engine Multisite Admin Bar
- * Plugin URI: https://github.com/mistercorey
+ * Plugin URI: https://github.com/csalzano
  * Description: WP Engine's admin bar menu includes an Empty Caches link that errors for all users except Super Admins. This is a fix.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Corey Salzano
  * Author URI: https://profiles.wordpress.org/salzano
  * Text Domain: fix-wpe-admin-bar
